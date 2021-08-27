@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4N3A1DSW+S7JPQ2IEB+4q4/nzmTzAJh8yODOkgnZCw/uQpNHiOGmp39g0bCLWbPAKgUdThh4WeWThx6+KuZfGg==",
+  "dgSpecHash": "Kmj6SqRLPPs6P3utQLBAB0yXgbcTtL5AAUzCeL6E3vC7noPSeLf+x0iEbbKc/wvLtxOR0HhcmCh77YcucITXuA==",
   "success": true,
   "projectFilePath": "D:\\DotNet\\ASP.Net-Core\\dependency-injection-c#\\dependency-injection-c#.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
+    "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -6,4 +6,8 @@
     <RootNamespace>dependency_injection_c_</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.2" />
+  </ItemGroup>
+
 </Project>

@@ -14,3 +14,6 @@ D:\DotNet\ASP.Net-Core\dependency-injection-c#\obj\Debug\net5.0\dependency-injec
 D:\DotNet\ASP.Net-Core\dependency-injection-c#\obj\Debug\net5.0\ref\dependency-injection-c#.dll
 D:\DotNet\ASP.Net-Core\dependency-injection-c#\obj\Debug\net5.0\dependency-injection-c#.pdb
 D:\DotNet\ASP.Net-Core\dependency-injection-c#\obj\Debug\net5.0\dependency-injection-c#.genruntimeconfig.cache
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\obj\Debug\net5.0\dependency-injection-c#.csproj.CopyComplete
