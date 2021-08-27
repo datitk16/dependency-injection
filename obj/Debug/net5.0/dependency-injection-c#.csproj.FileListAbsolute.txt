@@ -1,0 +1,16 @@
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\bin\Debug\net5.0\dependency-injection-c#.exe
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\bin\Debug\net5.0\dependency-injection-c#.deps.json
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\bin\Debug\net5.0\dependency-injection-c#.runtimeconfig.json
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\bin\Debug\net5.0\dependency-injection-c#.runtimeconfig.dev.json
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\bin\Debug\net5.0\dependency-injection-c#.dll
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\bin\Debug\net5.0\ref\dependency-injection-c#.dll
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\bin\Debug\net5.0\dependency-injection-c#.pdb
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\obj\Debug\net5.0\dependency-injection-c#.csprojAssemblyReference.cache
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\obj\Debug\net5.0\dependency-injection-c#.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\obj\Debug\net5.0\dependency-injection-c#.AssemblyInfoInputs.cache
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\obj\Debug\net5.0\dependency-injection-c#.AssemblyInfo.cs
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\obj\Debug\net5.0\dependency-injection-c#.csproj.CoreCompileInputs.cache
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\obj\Debug\net5.0\dependency-injection-c#.dll
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\obj\Debug\net5.0\ref\dependency-injection-c#.dll
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\obj\Debug\net5.0\dependency-injection-c#.pdb
+D:\DotNet\ASP.Net-Core\dependency-injection-c#\obj\Debug\net5.0\dependency-injection-c#.genruntimeconfig.cache
